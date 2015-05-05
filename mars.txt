@@ -1,1 +1,2 @@
-Cold and dry, but everything is red.
+Cold, estrano, and dry, but everything is red. Just a practice with Git commit and other stuff.  What on earth does this all mean?  Can this handle formatted text?
+
